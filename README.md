@@ -1,6 +1,8 @@
 # Haarlem ZOO
 
 De plaatselijke dierentuin wil een dynamische website waar tickets gekocht kunnen worden.
+Een frontend developer heeft alle html en css gemaakt. Hier en daar ontbreken er gestijlde pagina's. Maar jij als backender kan aan de slag gaan.
+
 
 ## Userstories
 
@@ -8,15 +10,20 @@ De plaatselijke dierentuin wil een dynamische website waar tickets gekocht kunne
 2. Als een nieuwe gebruiker wil ik een bevestiging van mijn registratie ontvangen zodat ik weet dat mijn registratie succesvol was.
 3. Als een gebruiker wil ik een ticket kunnen kopen en vervolgens een bedankbericht zien zodat ik weet dat mijn aankoop gelukt is.
 4. Als een gebruiker wil ik een bevestigingsmail ontvangen na het kopen van een ticket zodat ik een bevestiging van mijn aankoop heb.
-5. Als een gebruiker wil ik merchandise kunnen kopen en vervolgens een bedankbericht zien zodat ik weet dat mijn aankoop gelukt is.
-6. Als een gebruiker wil ik kunnen uitloggen en een bericht zien dat ik ben uitgelogd zodat ik weet dat ik veilig ben uitgelogd.
-7. Als een gebruiker wil ik mijn profiel kunnen zien en aanpassen vanuit mijn dashboard zodat ik mijn gegevens kan bijwerken.
-8. Als een gebruiker wil ik een overzicht van mijn gekochte tickets kunnen zien vanuit mijn dashboard.
-9. Als een admin wil ik een overzicht van alle tickets kunnen zien, nieuwe tickettypes kunnen aanmaken, bestaande tickets kunnen updaten en tickets kunnen verwijderen vanuit het admin dashboard.
-10. Als een admin wil ik een overzicht van alle verkochte producten kunnen zien vanuit het admin dashboard.
-11. Als een admin wil ik nieuwe merchandise kunnen uploaden vanuit het admin dashboard.
+5. Als een gebruiker wil ik een overzicht van alle beschikbare merchandise kunnen zien voordat ik een aankoop doe
+6. Als een gebruiker wil ik merchandise kunnen kopen en vervolgens een bedankbericht zien zodat ik weet dat mijn aankoop gelukt is.
+7. Als een gebruiker wil ik kunnen uitloggen en een bericht zien dat ik ben uitgelogd zodat ik weet dat ik veilig ben uitgelogd.
+8. Als een gebruiker wil ik mijn profiel kunnen zien en aanpassen vanuit mijn dashboard zodat ik mijn gegevens kan bijwerken.
+9. Als een gebruiker wil ik een overzicht van mijn gekochte tickets kunnen zien vanuit mijn dashboard.
+10. Als een admin wil ik een overzicht van alle tickets kunnen zien, nieuwe tickettypes kunnen aanmaken, bestaande tickets kunnen updaten en tickets kunnen verwijderen vanuit het admin dashboard.
+11. Als een admin wil ik een overzicht van alle verkochte producten kunnen zien vanuit het admin dashboard.
+12. Als een admin wil ik nieuwe merchandise kunnen uploaden vanuit het admin dashboard.
 
-Optionele Userstories: 12. Als een gebruiker wil ik mijn wachtwoord kunnen resetten in geval ik het vergeet. 13. Als een admin wil ik specifieke gebruikersaccounts kunnen bekijken en beheren. 14. Als een gebruiker wil ik een overzicht van alle beschikbare merchandise kunnen zien voordat ik een aankoop doe. 15. Als een admin wil ik statistieken kunnen zien over ticketverkoop en merchandiseverkoop.
+## Optionele Userstories
+
+13. Als een gebruiker wil ik mijn wachtwoord kunnen resetten in geval ik het vergeet. 
+14. Als een admin wil ik specifieke gebruikersaccounts kunnen bekijken en beheren. 
+15. Als een admin wil ik statistieken kunnen zien over ticketverkoop en merchandiseverkoop.
 
 Suggestie voor prioritering:
 
