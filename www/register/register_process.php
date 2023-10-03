@@ -25,9 +25,6 @@ include 'mail.php';
 
 /** 
  * Stap 5: De gebruiker wordt doorgestuurd naar de confirmatiepagina
+ * Op confirm.php wordt gecontroleerd of de key is opgeslagen in de database
  */
 
-
-// Controleer of de key is opgeslagen in de database
-// Als dit zo is, stuur dan de gebruiker de confirmatiepagina
-// Als dit niet zo is, stuur dan de gebruiker terug naar de registratiepagina
