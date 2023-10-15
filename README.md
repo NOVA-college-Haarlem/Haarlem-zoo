@@ -33,3 +33,6 @@ De userstories vindt je [hier](USERSTORIES.md)
 
 # ERD
 Het ERD kun je [hier](ERD.md) vinden
+
+# Beoordelingssheet
+De beoordelingssheet kun je [hier](BEOORDELINGSHEET.md) vinden
