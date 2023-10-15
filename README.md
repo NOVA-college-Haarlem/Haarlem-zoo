@@ -30,3 +30,6 @@ docker compose up -d
 # Userstories
 
 De userstories vindt je [hier](USERSTORIES.md)
+
+# ERD
+Het ERD kun je [hier](ERD.md) vinden
